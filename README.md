@@ -3,3 +3,5 @@
  
  # GUI Calculator Screenshots
  ![](Screenshots/SS1.png)
+  ![](Screenshots/SS2.png)
+ 
