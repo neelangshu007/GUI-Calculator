@@ -18,7 +18,7 @@ pip install tkinter
 
 If you have the correct version of Python and tkinter installed, you can run the program in the command prompt / terminal.
 ```
-cd Weather-App
+cd GUI-Calculator
 ```
 ```
 python main.py
